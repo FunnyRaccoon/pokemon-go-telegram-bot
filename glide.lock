@@ -1,0 +1,16 @@
+hash: a95a1eab3192e42a5c9ce47abda1d35fe00ec83a10bd6138031723921753022d
+updated: 2016-08-02T00:06:56.066585043+03:00
+imports:
+- name: github.com/mrd0ll4r/tbotapi
+  version: b7bd70f303ae82b03380bb96ae3558b3f56c48d7
+- name: golang.org/x/crypto
+  version: bc89c496413265e715159bdc8478ee9a92fdc265
+- name: golang.org/x/net
+  version: 35028a49ca5a73b486af60cd20ac21cd6b67bfdb
+- name: golang.org/x/text
+  version: 2910a502d2bf9e43193af9d68ca516529614eed3
+  repo: https://golang.org/x/text
+- name: gopkg.in/resty.v0
+  version: 0eed47a8f8c2575a34a067585dc0853d91943ac4
+  repo: https://gopkg.in/resty.v0
+devImports: []
