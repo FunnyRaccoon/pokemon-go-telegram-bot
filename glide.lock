@@ -1,16 +1,36 @@
-hash: a95a1eab3192e42a5c9ce47abda1d35fe00ec83a10bd6138031723921753022d
-updated: 2016-08-02T00:06:56.066585043+03:00
+hash: 248ad9ce5f43121befb718dbed197c6b0355d700281c4a82731f3ef019ddf835
+updated: 2016-08-03T15:20:57.963366882+03:00
 imports:
+- name: github.com/golang/glog
+  version: 23def4e6c14b4da8ac2ed8007337bc5eb5007998
+- name: github.com/golang/protobuf
+  version: c3cefd437628a0b7d31b34fe44b3a7a540e98527
+- name: github.com/googleapis/gax-go
+  version: 8b0741b94759890156bc4a00cedd6e4f7cf744de
+- name: github.com/googleapis/proto-client-go
+  version: e5790fe2658ab48a2a8f8bf5247be730d7f844f2
+- name: github.com/mjibson/gpsoauth
+  version: be41f43784ed68405d473a38b886a4198aaf45b6
 - name: github.com/mrd0ll4r/tbotapi
   version: b7bd70f303ae82b03380bb96ae3558b3f56c48d7
 - name: golang.org/x/crypto
   version: bc89c496413265e715159bdc8478ee9a92fdc265
 - name: golang.org/x/net
-  version: 35028a49ca5a73b486af60cd20ac21cd6b67bfdb
+  version: e2ba55e4e78399d85f2a0e0b92396b81ed410633
+- name: golang.org/x/oauth2
+  version: 0aec23fa6269cbce14cd407234f04213227a7917
 - name: golang.org/x/text
   version: 2910a502d2bf9e43193af9d68ca516529614eed3
-  repo: https://golang.org/x/text
+- name: google.golang.org/api
+  version: 593853e2d377362656ee40abf6df5cd3030c736b
+- name: google.golang.org/appengine
+  version: f21d98e7aefbf9ff4d5eeba05d7a925cc7ac20c3
+- name: google.golang.org/cloud
+  version: 3424547c8520afc56e7e62e125fecc0e39f73a44
+- name: google.golang.org/genproto
+  version: 9f48fed629f137e474fb7422a911dfad49e2eaae
+- name: google.golang.org/grpc
+  version: 35896af9ad39c1fb1b1cd925fe3621be361e3d81
 - name: gopkg.in/resty.v0
   version: 0eed47a8f8c2575a34a067585dc0853d91943ac4
-  repo: https://gopkg.in/resty.v0
 devImports: []

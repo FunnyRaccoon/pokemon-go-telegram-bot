@@ -1,0 +1,15 @@
+{
+  "app" : {
+    "ptc_client_secret" : "%ptc_client_secret%",
+    "android_id" : "%android_id%",
+    "service" : "%service%",
+    "app" : "%app%",
+    "client_sig" : "%client_sig%",
+    "client_id" : "%client_id%",
+    "client_secret" : "%client_secret%"
+  },
+  "user" : {
+    "username" : "%username%",
+    "password" : "%password%"
+  }
+}

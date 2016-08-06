@@ -1,4 +1,8 @@
 package: pokemon-go-telegram-bot
 import:
 - package: github.com/mrd0ll4r/tbotapi
-  version: b7bd70f303ae82b03380bb96ae3558b3f56c48d7
+  version: master
+- package: golang.org/x/oauth2
+  version: master
+- package: github.com/mjibson/gpsoauth
+  version: master
